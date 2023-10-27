@@ -1,0 +1,22 @@
+.info{
+    left: "47%";
+    
+    font-size: large;
+    font-family: 'Buenos Aires Trial';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+text-align: center;
+
+/* Dark text color */
+color: #010514;
+}
+.center{
+    left:"200px";
+    margin-top: 20px;
+}
+.hgl{
+    color:lightgreen;
+}

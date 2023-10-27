@@ -1,0 +1,147 @@
+
+body{
+    overflow:hidden;
+    
+   
+}
+
+.left {
+    position: absolute;
+    width: 52%; /* Adjust the width to your preference */
+    height: 100%; /* Adjust the height to your preference */
+    left: 0;
+    top: 0;
+    background: url('../../assets/class.png');
+    background-repeat: no-repeat;
+
+  }
+  .right{
+
+    position: absolute;
+    width: 50%; /* Adjust the width to your preference */
+    height: 100%; /* Adjust the height to your preference */
+    left: 50%;
+    top: 0;
+    background-image: url('../../assets/palm.png');
+    
+
+
+    
+
+  }
+
+
+
+
+
+  .form{
+    position:relative;
+    width: 454px;
+
+top: 245px;
+left: 169px;
+  }
+
+  
+  
+  .text {
+    position: absolute;
+    font-weight: 700;
+    font-size: 37px;
+    
+    width: 435px;
+height: 99px;
+top: 559px;
+left: 110px;
+color:white;
+   
+   
+  
+    font-family: 'Poppins';
+  }
+  
+  
+  
+  .subtitle {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    /* Add more styles as needed */
+  }
+  
+  /* Rectangle 77 */
+  .login {
+    width: 100%; /* Full width of the viewport */
+    height: 100%; /* Full height of the viewport */
+    padding: 38px 97px 37px 41px; /* Adjust the padding as needed */
+  }
+
+
+  /* right side of this page  */
+  
+
+  .app {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  
+  input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  input[type="submit"]:hover {
+    background: #6cf0c2;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-form {
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }
+
+

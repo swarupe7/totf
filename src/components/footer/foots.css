@@ -1,0 +1,45 @@
+.inputbox{
+    height:9px;
+    width:300px;
+    left:45%
+}
+
+.container{
+    max-width: 100%;
+    margin-inline: auto;
+    padding-inline: var(--padding-inline-section);
+    overflow: hidden;
+}
+.nav-links {
+    display: flex;
+
+
+}
+.sub-footer{
+    background-color: black;
+}
+.flex{
+  display: flex;
+  text-align: center;
+}
+.hover-links{
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+}
+
+.subfooter-container{
+    background-color: black;
+    background-size: 100% !important;
+    display:flex;
+    align-items: center;
+    color:rgb(16, 14, 14);
+    padding-left: 250px;
+
+}
+
+.sf-items{
+    display:flex;
+    align-items: center;
+    padding-left: 150px;
+}

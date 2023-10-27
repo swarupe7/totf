@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+
+.title-tst{
+    left: "47%";
+    
+font-size: large;
+font-family: 'Buenos Aires Trial';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+text-align: center;
+
+/* Dark text color */
+color: #010514;
+}
+
+.content{
+    left:"200px";
+    margin-top: 10px;
+}
+.tst-cnt{
+    margin-top: 15px;
+}
+
+.main-tst{
+    color: lightgreen;
+}
+
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
